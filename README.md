@@ -1,43 +1,33 @@
-# Lesson Title
-
-All Readmes should follow a similar format when it comes to structure. Please
-refer to the [style guide][] for a detailed explaination of standards.
-
-## Learning Goals
-
-- [Check out this Readme on writing Learning Goals][goals]
+# Prework Review
 
 ## Introduction
 
-Sometimes called an Overview, this section should contain a brief summary of
-what the lesson contains. Great introductions present a problem that is solved
-by the concepts reviewed in this lesson.
+This lesson will quickly review some of the core concepts we've learned about
+Ruby. Use this lesson as a resource - our courses move quickly, so we recommend
+taking some time to review just before your start.
 
-## Contents
+## Ruby
 
-Lessons often contain multiple sections of content. Use the Learning Goals
-you've defined to guide you on what sections and sub-sections are needed.
+### Variables
 
-Refer to [this guide for assistance when writing Readmes][readmes]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0FHgtMRrKGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Conclusion
+### Methods
 
-Wrap up the lesson with a brief review of what was covered. This is often a good
-place to connect the concepts discussed within a larger context.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nTL_65lh76o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Resources
+### Arrays and Hashes
 
-This is an optional section, but list and link to resources, articles, and
-websites that you think will be beneficial for additional reading. Also, if your
-written contents included external links, it may be good to add a second
-reference here:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9m4SJOqxoYI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Style Guide][style guide]
-- [Writing Learning Goals][goals]
-- [Writing Readmes][readmes]
+### Debugging with Pry
 
-[style guide]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/style_guide.md
-[goals]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-learning_objectives.md
-[readmes]: https://github.com/learn-co-curriculum/curriculum-team/blob/master/writing/creation-content-focus-writing_readme.md
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uv6fvdKXAnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/readme-template' title='Readme Template.'>Readme Template.</p>
+## HTML Basics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EjQ7InjJqHk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## CSS Basics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/imVpbMgD8aA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
